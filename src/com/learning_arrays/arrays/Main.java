@@ -1,4 +1,4 @@
-package com.arrays;
+package com.learning_arrays.arrays;
 
 public class Main {
     public static void main(String[] args) {

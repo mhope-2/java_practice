@@ -1,6 +1,4 @@
-package com.inheritance;
-
-import com.company.VipCustomer;
+package com.learning_inheritance.inheritance;
 
 public class Main {
     public static void main(String[] args) {

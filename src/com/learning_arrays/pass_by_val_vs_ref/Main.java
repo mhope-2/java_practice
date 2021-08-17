@@ -1,6 +1,6 @@
-package com.pass_by_val_vs_ref;
+package com.learning_arrays.pass_by_val_vs_ref;
 
-// Passing arrays and individual array elements to methods.
+// Passing com.learning_arrays.arrays and individual array elements to methods.
 // Passing by value does not affect the original value
 // BUt passing by reference has access to the original value(s)
 

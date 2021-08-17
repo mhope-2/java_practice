@@ -1,6 +1,4 @@
-package com.company;
-
-import java.util.Scanner;
+package com.learning_inheritance.inheritance1;
 
 public class Main {
 

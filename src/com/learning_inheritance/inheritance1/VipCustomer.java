@@ -1,4 +1,4 @@
-package com.company;
+package com.learning_inheritance.inheritance1;
 
 /**
  *

@@ -1,4 +1,4 @@
-package com.inheritance;
+package com.learning_inheritance.inheritance;
 
 public class Dog extends Animal{
 
